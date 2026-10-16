@@ -1,0 +1,11 @@
+.day {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #334155
+}
+
+.today {
+    font-weight: 700;
+    color: #38bdf8
+}
